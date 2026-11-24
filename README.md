@@ -96,6 +96,38 @@ I’m an IT student and tech enthusiast who enjoys building web and mobile apps 
   PostgreSQL · MongoDB Atlas · Firebase · SQLite · Git · Docker · Shopify · AWS S3 · Amazon EC2
 </p>
 
+## Tools I use in this AI era
+
+Some help me write code. Others run the tasks I got tired of doing by hand.
+
+<p>
+  <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude Code"></a>&nbsp;
+  <a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="42" alt="Gemini"></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"></a>&nbsp;
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"></a>
+</p>
+
+<details>
+  <summary>Before AI, I wrote code by hand with this stack. Still am, now with a team of AI agents.</summary>
+  <p>Python · Java · C++ · PHP · JavaScript · TypeScript · React · Django · FastAPI · Laravel · PostgreSQL · Firebase</p>
+</details>
+
+## top languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richald03&layout=compact&title_color=F50063&text_color=333333&bg_color=ffffff&hide_border=true" width="100%" alt="Most used languages in public GitHub repositories">
+</p>
+
+## contribution calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/F50063/richald03" width="100%" alt="GitHub contribution calendar for richald03">
+</p>
+
 <hr>
 
 <p align="center">
