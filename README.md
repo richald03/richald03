@@ -101,19 +101,15 @@ I’m an IT student and tech enthusiast who enjoys building web and mobile apps 
 Some help me write code. Others run the tasks I got tired of doing by hand.
 
 <p>
-  <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude Code"></a>&nbsp;
-  <a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="42" alt="Gemini"></a>&nbsp;
-  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"></a>&nbsp;
-  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code">&nbsp;
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini API">&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google Antigravity">&nbsp;
+  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square" alt="Codex">
 </p>
 
 <details>
   <summary>Before AI, I wrote code by hand with this stack. Still am, now with a team of AI agents.</summary>
-  <p>Python · Java · C++ · PHP · JavaScript · TypeScript · React · Django · FastAPI · Laravel · PostgreSQL · Firebase</p>
+  <p>The programming languages and frameworks I use are listed in the Toolkit section above.</p>
 </details>
 
 ## top languages
