@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">John Aldrich C. Payawal profile banner</title>
+  <desc id="desc">A terminal-inspired banner introducing John Aldrich C. Payawal, a Tech Enthusiast and Information Technology student at T.I.P. Manila.</desc>
+  <defs>
+    <linearGradient id="frame" x1="20" y1="20" x2="1180" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F50063"/>
+      <stop offset=".52" stop-color="#745BFF"/>
+      <stop offset="1" stop-color="#42E8D0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(460 300 -300 460 1040 40)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A8B3CF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="#080B13"/>
+  <rect width="1200" height="340" rx="22" fill="url(#glow)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="21" stroke="url(#frame)" stroke-width="3"/>
+
+  <rect x="22" y="22" width="1156" height="42" rx="10" fill="#111725" stroke="#2B3448"/>
+  <circle cx="45" cy="43" r="5" fill="#FF5D77"/>
+  <circle cx="64" cy="43" r="5" fill="#FFC857"/>
+  <circle cx="83" cy="43" r="5" fill="#49D6A9"/>
+  <text x="105" y="47" fill="#AAB5CB" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.2">RICHALD03 / PROFILE README</text>
+  <text x="1124" y="47" fill="#49D6A9" font-family="Consolas, 'Courier New', monospace" font-size="12" text-anchor="end" letter-spacing="1">ONLINE</text>
+
+  <rect x="52" y="99" width="66" height="66" rx="12" fill="#F50063"/>
+  <path d="M85 110 107 153h-11l-4-10H77l-4 10H62l23-43Zm0 13-4 11h8l-4-11Z" fill="#fff" fill-rule="evenodd"/>
+  <text x="143" y="128" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing=".2">JOHN ALDRICH C. PAYAWAL</text>
+  <text x="145" y="158" fill="#9AA9C1" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">TECH ENTHUSIAST  /  BS INFORMATION TECHNOLOGY</text>
+  <path d="M145 178H715" stroke="url(#frame)" stroke-width="2"/>
+
+  <text x="58" y="219" fill="#4DE5D2" font-family="Consolas, 'Courier New', monospace" font-size="15">$ whoami</text>
+  <text x="58" y="249" fill="#D9E1F2" font-family="Consolas, 'Courier New', monospace" font-size="16">I build web and mobile projects and explore practical uses for AI.</text>
+  <text x="58" y="282" fill="#8794AB" font-family="Consolas, 'Courier New', monospace" font-size="13">MANILA, PHILIPPINES  ·  T.I.P. MANILA</text>
+
+  <g transform="translate(790 100)">
+    <rect width="350" height="170" rx="14" fill="#0C111D" stroke="#29344A"/>
+    <path d="M0 42H350" stroke="#29344A"/>
+    <text x="22" y="27" fill="#8794AB" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1">CURRENT TOOLKIT</text>
+    <text x="24" y="77" fill="#F50063" font-family="Consolas, 'Courier New', monospace" font-size="13">&gt;</text>
+    <text x="45" y="77" fill="#D9E1F2" font-family="Consolas, 'Courier New', monospace" font-size="14">React  ·  TypeScript</text>
+    <text x="24" y="108" fill="#4DE5D2" font-family="Consolas, 'Courier New', monospace" font-size="13">&gt;</text>
+    <text x="45" y="108" fill="#D9E1F2" font-family="Consolas, 'Courier New', monospace" font-size="14">Java  ·  Android</text>
+    <text x="24" y="139" fill="#9C8CFF" font-family="Consolas, 'Courier New', monospace" font-size="13">&gt;</text>
+    <text x="45" y="139" fill="#D9E1F2" font-family="Consolas, 'Courier New', monospace" font-size="14">Django  ·  FastAPI  ·  SQL</text>
+  </g>
+</svg>
